@@ -4,7 +4,7 @@
 
 - Solve problems, with code or, even better, without.
 - Implement the solution that leads to the whole project having the simplest and most correct code possible.
-- Orient myself in unfmailiar codebases, projects, languages.
+- Orient myself in unfamiliar codebases, projects, languages.
 - Find out what customers and users need in terms of functionality, not just isolated features.
 
 ## 🏆 Favorite languages, frameworks and tech
