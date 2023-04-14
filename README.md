@@ -17,7 +17,7 @@
 - React
 - React Native/Expo
 - Kotlin for Android
-- [BabylonJS](https://babylonjs.org)
+- [BabylonJS](https://babylonjs.com)
 - Linux (any other Unix a close second)
 - Postgres
 - Kubernetes
